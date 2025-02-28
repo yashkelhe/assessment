@@ -1,6 +1,7 @@
 # Image Processing From CSV
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -20,6 +21,7 @@
 ## Introduction
 
 This project is an image processing system designed to handle CSV files containing product information and associated image URLs. The system performs the following tasks:
+
 1. Receives and validates CSV files.
 2. Asynchronously processes images (compressing them by 50%).
 3. Stores the processed image data and associated product information in a database.
@@ -47,6 +49,7 @@ This project is an image processing system designed to handle CSV files containi
    ```bash
    git clone https://github.com/yourusername/image-processing-system.git
    cd image-processing-system
+   ```
 
 ## Configuration
 
@@ -59,9 +62,12 @@ This project is an image processing system designed to handle CSV files containi
 1. Start the server:
    ```bash
    npm start
+   ```
 2. Run the worker script for processing images:
    ```bash
    node workers/processImages.js
+   ```
+
 ## API Documentation
 
 1: API Documentation PDF Provided in Repository
@@ -76,4 +82,4 @@ This project is an image processing system designed to handle CSV files containi
 
 # LLD Draw IO
 
-Click the image below to view [LLD.pdf](https://github.com/user-attachments/files/16325981/lld.pdf)
+Click the image below to view [LLD.pdf](https://github.com/yashkelhe/assessment/blob/main/lowleveldesign.pdf)
