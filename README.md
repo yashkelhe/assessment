@@ -82,4 +82,4 @@ This project is an image processing system designed to handle CSV files containi
 
 # low level design
 
-Click the image below to view [LLD.pdf](https://github.com/yashkelhe/assessment/blob/main/lowleveldesign.pdf)
+Click the image below to view [lowlevelDesign.pdf](https://github.com/yashkelhe/assessment/blob/main/lowleveldesign.pdf)
