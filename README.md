@@ -46,9 +46,10 @@ This project is an image processing system designed to handle CSV files containi
 ## Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/yourusername/image-processing-system.git
-   cd image-processing-system
+   git clone https://github.com/yashkelhe/assessment
+
    ```
 
 ## Configuration
@@ -61,7 +62,7 @@ This project is an image processing system designed to handle CSV files containi
 
 1. Start the server:
    ```bash
-   npm start
+   npm dev
    ```
 2. Run the worker script for processing images:
    ```bash
