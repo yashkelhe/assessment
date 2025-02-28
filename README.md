@@ -66,7 +66,7 @@ This project is an image processing system designed to handle CSV files containi
    ```
 2. Run the worker script for processing images:
    ```bash
-   node process/processImages.js
+   node worker/processImages.js
    ```
 
 ## API Documentation
