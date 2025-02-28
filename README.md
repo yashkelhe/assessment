@@ -80,6 +80,6 @@ This project is an image processing system designed to handle CSV files containi
 
 1: Asynchronous Workers Documentation PDF provided in Repository
 
-# LLD Draw IO
+# low level design
 
 Click the image below to view [LLD.pdf](https://github.com/yashkelhe/assessment/blob/main/lowleveldesign.pdf)
